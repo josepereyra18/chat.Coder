@@ -1,0 +1,45 @@
+[
+  {
+    "title": "producto prueba LO AGREGUE Y EDITE",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "a",
+    "stock": 1234,
+    "id": "0.1vwzy77pnbo"
+  },
+  {
+    "title": "PRUEBA AAAA",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "a",
+    "stock": 1234,
+    "id": "0.qdrqm6b5ee"
+  },
+  {
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 290,
+    "thumbnail": "Sin imagen",
+    "code": "ab",
+    "stock": 34,
+    "id": "0.tj5hi6qq2l"
+  },
+  {
+    "title": "computadora",
+    "description": "esta es una computadora",
+    "price": "2345",
+    "code": "jsh7i3",
+    "stock": "24",
+    "id": "0.eeq6w9pj2dp"
+  },
+  {
+    "title": "hola compu2",
+    "description": "hola esta es una prueba de computadoras",
+    "price": "8907",
+    "code": "jah56fsc",
+    "stock": "34",
+    "id": "0.1y1ka5v2ph"
+  }
+]

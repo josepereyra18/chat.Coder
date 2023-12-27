@@ -1,0 +1,31 @@
+<div>
+    <H2>Real Time Products </H2>
+
+    <h3>Agregar</h3>
+    <form id="formularioAgregar">
+        <input type="text" id="inputTitle" placeholder="Título">
+        <input type="text" id="inputDescription" placeholder="Descripción">
+        <input type="text" id="inputPrice" placeholder="Precio">
+        <input type="text" id="inputCode" placeholder="Código">
+        <input type="text" id="inputStock" placeholder="Stock">
+        <button type="button" id="btnAgregar">Agregar</button>
+    </form>
+    <hr>
+
+    <h3>Borrar</h3>
+    <form id="formularioEliminar">
+        <input type="text" id="inputId" placeholder="ID">
+        <button type="button" id="btnBorrar">Eliminar</button>
+    </form>
+    <hr>
+
+    <div>
+        <h3>Productos</h3>
+        <div id="productosDiv"></div>
+    </div>
+</div>
+
+
+    
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/realTimeProducts.js" ></script>
